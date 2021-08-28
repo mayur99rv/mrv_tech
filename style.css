@@ -509,7 +509,7 @@ nav {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
-  color: #2c2b2b;
+  color: black;
   overflow: hidden;
 }
 
